@@ -1,0 +1,5 @@
+-> should include defination
+-> should include point
+-> no recitation of defination from the slide
+-> better UI and fonts
+-> description should be nice, clear and understandable
